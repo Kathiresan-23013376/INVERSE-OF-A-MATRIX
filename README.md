@@ -17,6 +17,8 @@ result=np.linalg.inv(matrix)
 print(result)
 ```
 ## Output:
+![image](https://github.com/Kathiresan-23013376/INVERSE-OF-A-MATRIX/assets/150008375/3483657d-70bc-4d2c-9a6a-b121448aba39)
+
 ![image](https://github.com/Kathiresan-23013376/INVERSE-OF-A-MATRIX/assets/150008375/bea306f2-8deb-44bb-b747-ba0724a130d8)
 
 ## Result:
